@@ -1,0 +1,2 @@
+- index -> entry point to each website -> the first page of project -> index.html
+    - Deafualt name of the first page of any website 
